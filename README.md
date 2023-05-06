@@ -1,4 +1,4 @@
-# Detect_with_YOLO
+# ObjectDetect_with_YOLO
 
 
 Install YOLO : https://pypi.org/project/yolo/  
